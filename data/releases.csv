@@ -1,0 +1,5 @@
+release_id,service,changed_files,lines_added,lines_removed,test_coverage,files_without_tests,unique_owners,hotspot_files,days_since_last_release,rollback_count
+checkout-2025-01-14,checkout,18,920,240,71,5,4,6,18,1
+catalog-2025-01-14,catalog,7,180,60,92,0,2,1,8,0
+identity-2025-01-14,identity,31,1880,760,54,12,6,14,45,2
+notifications-2025-01-14,notifications,4,75,20,96,0,1,0,3,0
